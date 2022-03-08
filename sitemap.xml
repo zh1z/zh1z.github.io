@@ -2,13 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://zh1z.github.io/about/</loc>
-    <lastmod>2022-03-07T16:02:15+08:00</lastmod>
+    <loc>http://zh1z.github.io/posts/</loc>
+    <lastmod>2022-03-08T10:33:59+08:00</lastmod>
+  </url><url>
+    <loc>http://zh1z.github.io/</loc>
+    <lastmod>2022-03-08T10:33:59+08:00</lastmod>
+  </url><url>
+    <loc>http://zh1z.github.io/posts/first/</loc>
+    <lastmod>2022-03-08T10:33:59+08:00</lastmod>
+  </url><url>
+    <loc>http://zh1z.github.io/archives/</loc>
   </url><url>
     <loc>http://zh1z.github.io/categories/</loc>
   </url><url>
-    <loc>http://zh1z.github.io/tags/</loc>
+    <loc>http://zh1z.github.io/search/</loc>
   </url><url>
-    <loc>http://zh1z.github.io/</loc>
+    <loc>http://zh1z.github.io/tags/</loc>
   </url>
 </urlset>

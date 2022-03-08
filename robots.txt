@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://zh1z.github.io/sitemap.xml
